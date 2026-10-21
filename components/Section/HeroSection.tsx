@@ -36,13 +36,9 @@ export default function Hero() {
             >
               About this blog
             </Link>
-          </div>
-
-          
-        </div>
-
-        {/* Featured article */}
-   
+          </div>          
+        </div>   
+        
       </div>
     </section>
   );
